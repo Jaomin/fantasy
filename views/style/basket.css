@@ -1,0 +1,25 @@
+
+th{
+	color:#B0E0E6;
+	font-family:Georgia,serif,Times;
+	font-size:20cpx;
+	padding-bottom:20px;
+	text-transform:uppercase;
+}
+td{
+	width:300px;
+}
+
+.buy{
+	margin-top:30px;
+}
+.height{
+	margin-top:50px;
+	height:650px;
+	}
+table{
+	margin-top:100px;
+}
+#button{
+	margin-top:100px;
+}

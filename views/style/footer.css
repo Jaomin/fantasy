@@ -1,0 +1,15 @@
+.footer{
+	background-color: #E0FFFF;
+	margin-top:20px;
+	
+}
+.contact{
+	margin-top:50px;
+}
+.infos{
+	padding-top:20px;
+}
+@media only screen and (max-width:1280px) {}
+@media only screen and (max-width:960px) {}
+@media only screen and (max-width:768px) {}
+@media only screen and (max-width:480px) {}
